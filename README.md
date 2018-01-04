@@ -4,6 +4,4 @@ new line
 
 new new line
 
-no new line
-
-new line
+new new new line
